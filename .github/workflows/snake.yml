@@ -13,10 +13,10 @@ on:
     branches:
     - main
 
-# --- THIS IS THE FIX ---
+# --- THIS SECTION IS CRITICAL FOR PERMISSIONS ---
 permissions: 
   contents: write
-# -----------------------
+# ------------------------------------------------
 
 jobs:
   build:
@@ -28,7 +28,6 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Name of your GitHub user
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -37,7 +36,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to the output branch
-        uses: crazy-max/gh-action-github-pages@v3.1.0
+        # FIXED SPELLING HERE: ghaction-github-pages (removed the extra hyphen)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
