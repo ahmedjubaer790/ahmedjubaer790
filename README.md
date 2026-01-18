@@ -45,7 +45,7 @@ I am a passionate developer from Bangladesh focused on building scalable enterpr
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/ahmedjubaer790/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jubaer Ahmed" />
   </a>
   <a href="mailto:ahmedjubaer790@gmail.com">
