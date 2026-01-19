@@ -12,18 +12,15 @@ I am a passionate developer from Bangladesh focused on building scalable enterpr
 
 ### 📊 Coding Activity & Stats
 
-<!-- Row 1: Streak (Fixed) & General Stats -->
+<!-- Row 1: Streak (Standard Server) & General Stats -->
 <p align="left">
-  <!-- Fixed Streak URL (Demolab is more stable) -->
-  <a href="https://github.com/ahmedjubaer790">
-    <img src="https://streak-stats.demolab.com?user=ahmedjubaer790&theme=radical&hide_border=true" alt="Jubaer's Streak" />
-  </a>
-  <a href="https://github.com/ahmedjubaer790">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jubaer's Stats" />
-  </a>
+  <!-- Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjubaer790&theme=radical&hide_border=true" alt="Jubaer's Streak" />
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jubaer's Stats" />
 </p>
 
-<!-- Row 2: Recent Activity Graph (Shows your work over the last month) -->
+<!-- Row 2: Recent Activity Graph (Your daily commits) -->
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
 </p>
