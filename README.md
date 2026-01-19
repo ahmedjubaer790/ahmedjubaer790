@@ -17,7 +17,7 @@
 📫 **Contact for Collaboration:** [ahmedjubaer790@gmail.com](mailto:ahmedjubaer790@gmail.com)
 
 ---
-
+<h3 align="center">📊 Professional Metrics</h3>
 ### 📊 Professional Metrics
 <!-- Row 1: General Stats (Stable Version) -->
 <!-- Row 1: General Stats (All Time) -->
