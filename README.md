@@ -19,13 +19,12 @@
 ---
 
 ### 📊 Professional Metrics
-<!-- Row 1: Streak & Stats -->
+<!-- Row 1: General Stats (Clean Version) -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjubaer790&theme=radical&hide_border=true" alt="Jubaer's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Jubaer's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" alt="Jubaer's Stats" />
 </p>
 
-<!-- Row 2: Activity Graph -->
+<!-- Row 2: Activity Graph (Your Coding Heartbeat) -->
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
 </p>
