@@ -18,14 +18,13 @@
 
 ---
 <h3 align="center">📊 Professional Metrics</h3>
-### 📊 Professional Metrics
-<!-- Row 1: General Stats (Stable Version) -->
-<!-- Row 1: General Stats (All Time) -->
+
+
 <p align="center">
-  <!-- Added 'include_all_commits=true' back. It will work now. -->
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs&include_all_commits=true" alt="Jubaer's Stats" />
 </p>
-<!-- Row 2: Activity Graph -->
+
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
 </p>
