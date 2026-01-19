@@ -19,12 +19,13 @@
 ---
 
 ### 📊 Professional Metrics
-<!-- Row 1: General Stats (Clean Version) -->
+<!-- Row 1: General Stats (Stable Version) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" alt="Jubaer's Stats" />
+  <!-- Removed 'include_all_commits' to fix the error, kept 'hide=contribs' to hide the 0 line -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs" alt="Jubaer's Stats" />
 </p>
 
-<!-- Row 2: Activity Graph (Your Coding Heartbeat) -->
+<!-- Row 2: Activity Graph -->
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
 </p>
