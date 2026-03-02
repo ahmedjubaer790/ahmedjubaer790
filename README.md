@@ -17,7 +17,7 @@
 📫 **Contact for Collaboration:** [ahmedjubaer790@gmail.com](mailto:ahmedjubaer790@gmail.com)
 
 ---
-<h3 align="center">📊 Professional Metrics</h3>
+<!-- <h3 align="center">📊 Professional Metrics</h3>
 
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
-</p>
+</p> -->
 
 ### 🏆 Contribution Snake
 <picture>
