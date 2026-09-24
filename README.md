@@ -1,74 +1,60 @@
-<!-- Dynamic Typing Headline -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Oracle+APEX+Architect;PL%2FSQL+Performance+Expert;API+Security+Specialist;Database+Solution+Engineer" alt="Typing SVG" />
-</h1>
+<div align="center">
+  
+  <!-- Waving Header Animation -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hey,%20I'm%20Nazmul!&fontSize=42&fontAlignY=25&desc=Flutter%20Developer%20|%20Open-Source%20Contributor&descSize=20&descAlignY=45)
+  
+  ---
 
-<h3 align="center">🚀 Engineering Scalable Enterprise ERP Solutions</h3>
+  ### **🛠️ Tech Stack**
+  #### **Languages & Frameworks**
+  <p>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,py" alt="Languages" />
+  </p>
+  
+  #### **Backend & Databases**
+  <p>
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,mysql" alt="Backend" />
+  </p>
+  
+  #### **Tools & DevOps**
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" alt="Tools" />
+  </p>
 
----
+  ---
 
-**I specialize in architecting high-performance database applications.** With deep expertise in the Oracle ecosystem, I transform complex business requirements into secure, scalable, and efficient software solutions. I don't just write code; I design systems that last.
+  ### **📈 GitHub Stats**
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmultalukder-it&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmultalukder-it&theme=nightowl&hide_border=true" width="48%" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmultalukder-it&layout=compact&theme=nightowl&hide_border=true" width="45%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nazmultalukder-it&theme=onedark&no-frame=true&column=3" width="45%" />
+  </div>
 
-- 🔭 **Architecting:** Currently leading the core development of the **Babuland ERP System**.
-- 🛡️ **Securing:** Implementing military-grade **Advanced API Security (OAuth2, JWT)** in Oracle environments.
-- ⚡ **Optimizing:** Expert in **PL/SQL Performance Tuning** and Complex Database Design.
-- 💼 **Consulting:** Available for high-level discussions on **System Architecture & Database Logic**.
+  ---
 
-📫 **Contact for Collaboration:** [ahmedjubaer790@gmail.com](mailto:ahmedjubaer790@gmail.com)
+  ### **📫 Let's Connect!**
+  <p>
+    <a href="https://linkedin.com/in/nazmultalukder">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:youremail@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </p>
 
----
- <h3 align="center">📊 Professional Metrics</h3>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjubaer790&show_icons=true&theme=radical&hide_border=true&hide=contribs" alt="Jubaer's Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjubaer790&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Jubaer's Activity Graph" />
-</p> 
-
-### 🏆 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahmedjubaer790/ahmedjubaer790/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ahmedjubaer790/ahmedjubaer790/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/ahmedjubaer790/ahmedjubaer790/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 🛠️ Technical Arsenal
-
-<!-- Database & Backend -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX-Expert-F5C400?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-Advanced-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-Security-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<!-- Frontend & Tools -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-Pro-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmedjubaer790/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jubaer Ahmed" />
-  </a>
-  <a href="mailto:ahmedjubaer790@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ahmedjubaer790@gmail.com" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahmedjubaer790&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmedjubaer790" />
-</p>
+  <!-- Simple Footer -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nazmultalukder-it&label=Profile+Views&color=blueviolet&style=flat" />
+    • 
+    <a href="https://github.com/nazmultalukder-it?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore_My_Work-blueviolet?style=flat" />
+    </a>
+  </p>
+</div>
