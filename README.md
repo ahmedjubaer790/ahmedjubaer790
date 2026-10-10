@@ -12,10 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Jubaer Ahmed**, an **Executive Oracle APEX Developer at Babuland Limited**, Dhaka. I build and maintain business-critical ERP modules, integrations and APIs on the Oracle stack, and I'm currently expanding into AI-powered database applications.
+I'm **Jubaer Ahmed**, an **Oracle APEX Developer at Babuland Limited**, Dhaka. I build and maintain business-critical ERP modules, integrations and APIs on the Oracle stack, and I'm currently expanding into AI-powered database applications.
 
 - 🏢 Working at **Babuland Limited** (indoor playground business for children) on its ERP: memberships, daily footfall, sales, HRM, SCM/ICMO and more
-- 🎓 Pursuing **PGDIT** at **IIT, University of Dhaka** (2026 session)
 - 🤖 Building AI features: **NL-to-SQL chatbot** in APEX and a secure **MCP server for Oracle Database 23ai**
 - 📱 Exposing business data to mobile apps through **ORDS REST APIs**
 - 🌱 Always learning: Oracle AI, Database 23ai / 26ai, modern APEX UI
@@ -46,6 +45,8 @@ I'm **Jubaer Ahmed**, an **Executive Oracle APEX Developer at Babuland Limited**
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,9 +68,9 @@ I'm **Jubaer Ahmed**, an **Executive Oracle APEX Developer at Babuland Limited**
 
 - 🥇 **Oracle Certified Professional (OCP)** — APEX Cloud Developer
 - 🥈 **OCI 2025 AI Foundations Associate**
-- 🎓 **PGDIT**, Institute of Information Technology, University of Dhaka (2026 session)
+- 🎓 Institute of Information Technology, University of Dhaka (2026 session)
 - 📘 One-year **Oracle APEX** course, IsDB-BISEW IT Scholarship (completed April 2025)
-- 🏛️ **BSS in Political Science**, Dhaka College (2023)
+
 
 ---
 
@@ -79,7 +80,7 @@ I'm **Jubaer Ahmed**, an **Executive Oracle APEX Developer at Babuland Limited**
 |---------|-------------|-------|
 | 🧑‍💼 **Babuland HRM (2.0)** | Full HR module with a custom CSS design system | APEX, PL/SQL, CSS, JS |
 | 🤖 **NL-to-SQL Chatbot** | Ask business questions in plain language and get SQL-backed answers | APEX, Cohere AI, PL/SQL |
-| 🔐 **Oracle MCP Server** | Zero-trust MCP server connecting Claude to Oracle Database 23ai | Oracle 23ai, MCP |
+| 🔐 **Oracle MCP Server** | Zero-trust MCP server connecting Claude to Oracle Database 23ai | Oracle 23ai, MCP, Python |
 | 🎓 **DTMS** | Digital Training Management System covering the L&D training lifecycle | APEX, PL/SQL |
 | 📱 **Mobile App APIs** | Secure REST endpoints for the company mobile app | ORDS, PL/SQL, JSON |
 | 🌓 **APEX Theme Plugin** *(in progress)* | Plugin for dark / light / system theme control | APEX Plugin, JS, CSS |
@@ -119,8 +120,8 @@ I'm **Jubaer Ahmed**, an **Executive Oracle APEX Developer at Babuland Limited**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ahmedjubaer790/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedjubaer790@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C74634,50:203A43,100:0F2027&height=120&section=footer)
