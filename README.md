@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=C74634&center=true&vCenter=true&width=700&lines=Building+enterprise+ERP+on+Oracle+APEX;Designing+REST+APIs+with+ORDS+for+mobile+apps;Turning+natural+language+into+SQL+with+AI;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=C74634&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=C74634&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -71,7 +71,6 @@ I'm **Jubaer Ahmed**, an **Oracle APEX Developer at Babuland Limited**, Dhaka. I
 - 🎓 Institute of Information Technology, University of Dhaka (2026 session)
 - 📘 One-year **Oracle APEX** course, IsDB-BISEW IT Scholarship (completed April 2025)
 
-
 ---
 
 ## ⭐ Featured Projects
@@ -91,17 +90,17 @@ I'm **Jubaer Ahmed**, an **Oracle APEX Developer at Babuland Limited**, Dhaka. I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&column=4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4" width="48%" />
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -120,9 +119,8 @@ I'm **Jubaer Ahmed**, an **Oracle APEX Developer at Babuland Limited**, Dhaka. I
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ahmedjubaer790/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedjubaer790/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedjubaer790@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C74634,50:203A43,100:0F2027&height=120&section=footer)
 
